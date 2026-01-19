@@ -4,7 +4,7 @@ const greet = (name) => {
 }
 
 const greetBaradhan = (greetFn) => {
-    const name = "Baradhan"
+    const name = "vishva"
     greetFn(name)
 }
 
